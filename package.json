@@ -1,0 +1,18 @@
+{
+  "name": "canverro-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd client && npm start",
+    "start-server": "cd server && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
